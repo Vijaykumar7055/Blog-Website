@@ -1,0 +1,36 @@
+.custom-container {
+    margin: 5vh 15vw !important;
+    text-align: center;
+}
+.blog-post{
+  box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.438);
+}
+
+.blog-page-cover {
+    max-width: 70vw;
+}
+
+.blog-content {
+    text-align: justify;
+}
+
+/*Button*/
+.custom-button {
+    background-color: #12d619; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}
+
+.custom-button:hover {
+    background-color: #3ae242b9; /* Darker Green */
+}
